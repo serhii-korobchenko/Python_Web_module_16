@@ -1,0 +1,9 @@
+python -m pydoc [package name]
+
+
+
+pip install -U Sphinx
+sphinx-quickstart
+make html
+
+make doctest
